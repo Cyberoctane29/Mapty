@@ -4,7 +4,7 @@ This JavaScript-based project leverages HTML, CSS, and the Leaflet API to create
 
 Key Features:
 
-Geolocation Integration: Utilizing the browser's geolocation capabilities, the app accurately pinpoints the user's location on a dynamic map interface.
+* Geolocation Integration: Utilizing the browser's geolocation capabilities, the app accurately pinpoints the user's location on a dynamic map interface.
 Workout Mapping: Users can effortlessly create markers on the map to represent their running or cycling workouts, providing a visual overview of their exercise routines.
 Interactive Map Display: The Leaflet API powers an interactive map viewport, allowing users to zoom in, zoom out, and navigate across different areas seamlessly.
 Local Storage Support: Workouts and user preferences are securely stored in the browser's local storage, ensuring data persistence across sessions.
