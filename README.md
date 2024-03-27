@@ -1,4 +1,4 @@
-#Workout Tracker: Map-based Fitness Monitoring
+# Workout Tracker: Map-based Fitness Monitoring
 
 This JavaScript-based project leverages HTML, CSS, and the Leaflet API to create an intuitive workout tracker that seamlessly integrates with your browser's local storage. With a focus on simplicity and functionality, this application enables users to efficiently monitor and track their running and cycling workouts.
 
