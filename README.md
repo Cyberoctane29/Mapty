@@ -9,6 +9,5 @@ Key Features:
 * Interactive Map Display: The Leaflet API powers an interactive map viewport, allowing users to zoom in, zoom out, and navigate across different areas seamlessly.
 * Local Storage Support: Workouts and user preferences are securely stored in the browser's local storage, ensuring data persistence across sessions.
 * Sidebar Workout List: A convenient sidebar displays a list of all recorded workouts, enabling users to track their progress and review past activities at a glance.
-* Responsive Design: The application features a responsive design, ensuring optimal performance across various devices and screen sizes.
-
+  
 Whether you're a casual jogger or a dedicated cyclist, this workout tracker provides an intuitive solution for monitoring your fitness journey with ease. Start tracking your workouts today and stay motivated to achieve your fitness goals!
